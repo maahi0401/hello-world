@@ -1,4 +1,4 @@
 # hello-world
-Learning GitHub /n
+Learning GitHub
 Hello Branch! This is a bit about myself.
 
